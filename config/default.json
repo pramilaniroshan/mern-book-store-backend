@@ -1,0 +1,7 @@
+
+{
+    "mongoURI":
+      "mongodb+srv://admin:123@book-store.0fa86.mongodb.net/test?retryWrites=true&w=majority"
+  }
+
+  
